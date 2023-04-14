@@ -1,26 +1,24 @@
 # New-york-citi-bike-program
 URL tableau : https://public.tableau.com/views/Newyorkcitibike2019-2020/Dashboard2020?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
+Design 2–5 visualizations for each discovered phenomenon. You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
 
-The following are questions you may wish to answer. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
+The following are questions I answered.
 
 How many trips have been recorded in total during the chosen period?
 
 Analyze genders in start station in 2020?
 
+Analyze genders in start station in 2019?
+
 Today, what are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesize these are the top locations?
 
 Today, what are the top 10 stations in the city for ending a journey? Based on data, why?
 
-Today, what are the bottom 10 stations in the city for starting a journey? Based on data, why?
+How does the average trip duration change by age in 2020?
 
-Today, what are the bottom 10 stations in the city for ending a journey? Based on data, why?
-
-How does the average trip duration change by age?
-
-What is the average distance in miles for a bike trip?
-
+How does the average trip duration change by age in 2019?
+ 
 Use your visualizations (not necessarily all of them) to design a dashboard for each phenomenon. The dashboards should be accompanied by an analysis explaining why the phenomenon may be occurring.
 
 Create one of the following visualizations for city officials:
